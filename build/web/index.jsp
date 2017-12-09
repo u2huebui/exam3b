@@ -59,13 +59,14 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Your Favorite Source of Free Bootstrap Themes</strong>
+              <strong>Software Design Development Experience</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
+            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
+         
           </div>
         </div>
       </div>
@@ -86,85 +87,115 @@
 
     <section class="p-0" id="portfolio">
       <div class="container-fluid p-0">
-        <div class="row no-gutters popup-gallery">
+         
+       <!-- <div class="row no-gutters popup-gallery">-->
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+            <a class="portfolio-box" href="img/portfolio/fullsize/SalaryCalculator.jpg">
+                <a href="Homework3.jsp"> Calculator Salary </a>
+              <img class="img-fluid" src="img/portfolio/thumbnails/SalaryCalculator.jpg" alt="">
+              </div>
+              <!--
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Category
+                      
+                    Home work 3
+                    
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Salary Calculator ( link to HW3.jsp: screenshot of HW3 output, explain what did I learn from it, link to the website of HW3
+                  </div>
+                </div>
+              </div> -->
+           <!-- </a>
+          </div>-->
+           
+          <div class="col-lg-4 col-sm-6">
+              
+           <!-- <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">-->
+                <a href="readfunction.jsp"> Read Functionality </a>
+              <img class="img-fluid" src="img/portfolio/thumbnails/Read.jpg" alt="">
+          </div>
+              <!--<div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    HW4
+                  </div>
+                  <div class="project-name">
+                    Read Function ( link to read.jsp: have screenshot of user story for the homework assignment, class and database diagram, data flow diagrams of read functionality...., my experience about do read functionality
                   </div>
                 </div>
               </div>
             </a>
-          </div>
+          </div>-->
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
+              <!--
             <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+              -->
+              <a href="AddFunction.jsp"> Add Functionality </a>
+               <img class="img-fluid" src="img/portfolio/thumbnails/Add1.jpg" alt="">
+          </div>
+              <!--
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Category
+                    HW5
                   </div>
                   <div class="project-name">
-                    Project Name
+                   Add & Delete Functionality (link to AddDelete.jsp: screenshot of data flow diagrams of add, delete functionality, my experience, and explain what is add, delete
                   </div>
                 </div>
               </div>
             </a>
-          </div>
+          </div>-->
           <div class="col-lg-4 col-sm-6">
+              <!--
             <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
-              <div class="portfolio-box-caption">
+                -->
+                <a href="DeleteFunction.jsp"> Delete Functionality </a>
+              <img class="img-fluid" src="img/portfolio/thumbnails/Delete.jpg" alt="">
+          </div>
+              <!--<div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Category
+                    HW6
                   </div>
                   <div class="project-name">
-                    Project Name
+                    search &Update Functionality (link to update.jsp: screenshot of data flow diagrams of update. how update, search function work, my experience.
                   </div>
                 </div>
               </div>
             </a>
-          </div>
+          </div>-->
+             
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
+             <!--<a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+                -->
+                <a href="SearchFunction.jsp"> Search Functionality </a>
+              <img class="img-fluid" src="img/portfolio/thumbnails/Search.jpg" alt="">
+          </div>
+              <!--
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Category
+                   Final
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Project (link to project.jsp: screenshot of wirefame, picture of project)
                   </div>
                 </div>
               </div>
             </a>
-          </div>
+          </div>-->
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
+              <!--
+            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">-->
+              
+               <a href="UpdateFunction.jsp"> Update Functionality </a>
+
+              <img class="img-fluid" src="img/portfolio/thumbnails/Update.jpg" alt="">
+          </div>
+              <!--
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -178,7 +209,7 @@
             </a>
           </div>
         </div>
-      </div>
+      </div>-->
     </section>
     
      
