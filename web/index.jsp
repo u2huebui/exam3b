@@ -78,7 +78,6 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-              <a href="#"><img class="card-img-top" src="img/portfolio/thumbnails/GitHub1.JPG" alt=""></a>
             <h2 class="section-heading text-white">GitHub Experience</h2>
             <hr class="light my-4">
             <p>GitHub is a tool which help me work independently and share codes with my teammates.

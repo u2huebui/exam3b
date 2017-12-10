@@ -97,16 +97,30 @@
         <div>
         
         <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/AddFlow.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/AddFlow.JPG" alt>
               <br>   <br>
-              <a> Add record flow </a>
+              <p> Add record flow </p>
+            </a>
         </div>
+            
+            <div class="col-lg-4 col-sm-6">
+             <a class="portfolio-box" href="img/portfolio/fullsize/AddServlet.JPG">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/AddServlet.JPG" alt>
+              <br>   <br>
+              <p> Add Servlet Code </p>
+             </a>
+        </div>
+            
          <div class="col-lg-4 col-sm-6">
+             <a class="portfolio-box" href="img/portfolio/fullsize/AddForm.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/AddForm.JPG" alt>
               <br>   <br>
-              <a> Add form </a>
+              <p> Add form </p>
+             </a>
         </div>
         </div>
     </div>

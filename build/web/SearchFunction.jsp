@@ -96,16 +96,30 @@
         </p>
         
                 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/SearchFunction.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/SearchFunction.JPG" alt>
               <br>  <br> 
-              <a> Search record flow </a>
+              <p> Search record flow </p>
+               </a>
 		 </div>
+        
+               <div class="col-lg-4 col-sm-6">
+              <a class="portfolio-box" href="img/portfolio/fullsize/SearchServlet.JPG">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/SearchServlet.JPG" alt>
+              <br>  <br> 
+              <p> Search Servlet </p>
+              </a>
+		 </div>
+        
                 <div class="col-lg-4 col-sm-6">
+              <a class="portfolio-box" href="img/portfolio/fullsize/SearchClass.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/SearchClass.JPG" alt>
               <br>  <br> 
-              <a> Search form </a>
+              <p> Search form </p>
+              </a>
 		 </div>
     </div>
         

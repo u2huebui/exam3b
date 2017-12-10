@@ -95,11 +95,23 @@
         </p>
         
         <div class="col-lg-4 col-sm-6">
-				<br> <br>   
+	      <br> <br>  
+              <a class="portfolio-box" href="img/portfolio/fullsize/DeleteFlow.JPG">
               <img class="img-fluid" src="img/portfolio/thumbnails/DeleteFlow.JPG" alt>
               <br><br>   
-              <a> Delete record flow </a>
+              <p> Delete record flow </p>
+              </a>
 		 </div>
+        
+        <div class="col-lg-4 col-sm-6">
+	      <br> <br>  
+              <a class="portfolio-box" href="img/portfolio/fullsize/DeleteServlet.JPG">
+              <img class="img-fluid" src="img/portfolio/thumbnails/DeleteServlet.JPG" alt>
+              <br><br>   
+              <p> Delete Servlet </p>
+              </a>
+		 </div>
+        
     </div>
          <footer>
         <section id="contact">

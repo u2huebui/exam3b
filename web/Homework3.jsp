@@ -33,7 +33,7 @@
 	
 	
     </head>
-    <body>
+
 	
 	 <body id="page-top">
 
@@ -75,7 +75,7 @@
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
                 <strong>My <br>
-                  Application</strong>
+                  Applications</strong>
             </h1>
             <hr>
           </div>
@@ -95,25 +95,46 @@
           After finishing two applications, I get used to with NetBeans and GitHub.
           While making these application, CSS is the hardest part which I need to learn more.
         </p>
-        
+         <section class="p-0" id="portfolio">
+           <div class="mfp-zoom-out-cur">
 		 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/Calculator.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/Calculator.JPG" alt>
               <br><br>  
               <h4> Salary Calculator </h4>
+               </a>
               <p>
                 Users can estimate weekly net pay with salary calculator application. 
               </p>
 		 </div>
                  <div class="col-lg-4 col-sm-6">
               <br> <br>   
+              <a class="portfolio-box" href="img/portfolio/fullsize/ReadClasses.JPG">
               <img class="img-fluid" src="img/portfolio/thumbnails/ReadClasses.JPG" alt>
               <br><br>  
               <h4> My Classes Database </h4>
+              </a>
               <p>
                 With classes database application, users can read, add, update, delete, and search records from database.
               </p>
+              
+                 </div>
+               
+              <div class="col-lg-4 col-sm-6">
+              <br> <br>  
+              <a class="portfolio-box" href="img/portfolio/fullsize/GitHub1.JPG">
+              <img class="img-fluid" src="img/portfolio/thumbnails/GitHub2.JPG" alt>
+              <br><br>  
+              <h4> My GitHub Page </h4>
+              </a>
 		 </div>
+               
+              </div>
+    </div>
+          </section>
+              </div>
+
     </div>
          <footer>
         <section id="contact">

@@ -98,34 +98,44 @@
 	      <br><br>
 		<h4>The Memorable Moments in College</h4>
 		 <div class="col-lg-4 col-sm-6">
+              <a class="portfolio-box" href="img/portfolio/fullsize/aKDPhi1.jpg">
               <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi1.jpg" alt>
               <br>  <br>
-              <a> Reveal aKDPhi </a>
+              <p> Reveal aKDPhi </p>
+               </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/aKDPhi.jpg">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi.jpg" alt>
               <br> <br>  
-              <a> Friends-giving </a>
+              <p> Friends-giving </p>
+               </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/nhala.jpg">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/nhala.jpg" alt>
               <br><br>   
-              <a> Culture Ball event with my friends </a>
+              <p> Culture Ball event with my friends </p>
+               </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
-				<br> <br>   
+                <a class="portfolio-box" href="img/portfolio/fullsize/fam.jpg">
+		<br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/fam.jpg" alt>
               <br> <br>  
-              <a> Having fun with my sisters </a>
+              <p> Having fun with my sisters </p>
+                </a>
 		 </div>
 		  <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/VietnameseNewYear.jpg">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/VietnameseNewYear.jpg" alt>
               <br> <br>  
-              <a> Celebrate Vietnamese New Year 2017 with friends </a>
+              <p> Celebrate Vietnamese New Year 2017 with friends </p>
+               </a>
 		 </div>
     </div>
 		

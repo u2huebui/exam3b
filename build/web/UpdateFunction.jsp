@@ -94,17 +94,30 @@
             I did learn that I have to be patient to fix the errors.</p>
         
          <div class="col-lg-4 col-sm-6">
+             <a class="portfolio-box" href="img/portfolio/fullsize/UpdateFlow.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/UpdateFlow.JPG" alt>
               <br> <br>  
-              <a> Update record functionality </a>
+              <p> Update record functionality </p>
+             </a>
 	</div>
         
+        <div class="col-lg-4 col-sm-6">
+             <a class="portfolio-box" href="img/portfolio/fullsize/UpdateQuery.JPG">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/UpdateQuery.JPG" alt>
+              <br> <br>  
+              <p> Update Query </p>
+             </a>
+		 </div>
+        
          <div class="col-lg-4 col-sm-6">
+             <a class="portfolio-box" href="img/portfolio/fullsize/UpdateClass.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/UpdateClass.JPG" alt>
               <br> <br>  
-              <a> Update Form </a>
+              <p> Update Form </p>
+             </a>
 		 </div>
     </div>
         

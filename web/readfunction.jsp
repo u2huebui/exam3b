@@ -90,28 +90,36 @@
         
         
         <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/UserStories.JPG">
               <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/UserStories.JPG" alt>
               <br><br>  
-              <a> User Stories </a>
+              <p> User Stories </p>
+            </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/ClassDatabaseDiagram.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/ClassDatabaseDiagram.JPG" alt>
               <br><br>  
-              <a> Class and database diagrams </a>
+              <p> Class and database diagrams </p>
+                     </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
+              <a class="portfolio-box" href="img/portfolio/fullsize/Storyboard.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/Storyboard.JPG" alt>
               <br><br>  
-              <a> Storyboard of read functionality </a>
+              <p> Storyboard of read functionality </p>
+               </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
+               <a class="portfolio-box" href="img/portfolio/fullsize/ReadFlow.JPG">
               <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/ReadFlow.JPG" alt>
               <br><br>   
-              <a> Read record flow </a>
+              <p> Read record flow </p>
+               </a>
 		 </div>
     </div>
         
