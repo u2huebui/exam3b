@@ -29,6 +29,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    <link href="mycss/mystyle.css" rel="stylesheet">
 	
 	
     </head>
@@ -55,7 +56,7 @@
               <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
@@ -73,34 +74,57 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Salary Calculator</strong>
+                <strong>My <br>
+                  Application</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
-            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
+            <p class="text-faded mb-5"></p>
          
           </div>
         </div>
       </div>
     </header>
-	
-	
-        <h1>Homework 3</h1>
+    
+    <div class="padding">
+        <h1></h1>
+        <br>
+        <p class="pixel">
+           I made the salary calculator and class database application. 
+          After finishing two applications, I get used to with NetBeans and GitHub.
+          While making these application, CSS is the hardest part which I need to learn more.
+        </p>
         
+		 <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/Calculator.JPG" alt>
+              <br><br>  
+              <h4> Salary Calculator </h4>
+              <p>
+                Users can estimate weekly net pay with salary calculator application. 
+              </p>
+		 </div>
+                 <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/ReadClasses.JPG" alt>
+              <br><br>  
+              <h4> My Classes Database </h4>
+              <p>
+                With classes database application, users can read, add, update, delete, and search records from database.
+              </p>
+		 </div>
+    </div>
          <footer>
         <section id="contact">
+        <hr>
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
             <h4>
-              <strong>Contact Me</strong>
+              <strong>Hue Bui</strong>
             </h4>
-              <!--
-            <p>21 East Market Street
-              <br>Iowa City, IA, 52246</p>
-              -->
+             
             <ul class="list-unstyled">
               <li>
                 <i class="fa fa-phone fa-fw"></i>

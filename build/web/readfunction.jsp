@@ -28,6 +28,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+     <link href="mycss/mystyle.css" rel="stylesheet">
     
 	
 	</head>
@@ -38,10 +39,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <!--<a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>-->
+        
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
              <li class="nav-item">
@@ -51,10 +49,13 @@
               <a class="nav-link js-scroll-trigger" href="Huebui.jsp">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">link toLinkdIn page and summary about me, change the image</a>
+              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>
@@ -69,35 +70,60 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Read Functionality</strong>
+                <strong>Read  <br>
+                  Functionality</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
-            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
-         
+            <p class="text-faded mb-5"></p>
           </div>
         </div>
       </div>
     </header>
 	
-	
-	
-        <h1></h1>
+    <div class="padding">
+        <br><br>
+        <p class="pixel">The purpose of read functionality is the users can read all databases based on read.
+                Read functionality is the first functionality which is need to be created. It is the main functionality of the application.
+                It is also the fundamental for the delete, update functionality.</p>
+        
+        
+        <div class="col-lg-4 col-sm-6">
+              <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/UserStories.JPG" alt>
+              <br><br>  
+              <a> User Stories </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/ClassDatabaseDiagram.JPG" alt>
+              <br><br>  
+              <a> Class and database diagrams </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/Storyboard.JPG" alt>
+              <br><br>  
+              <a> Storyboard of read functionality </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/ReadFlow.JPG" alt>
+              <br><br>   
+              <a> Read record flow </a>
+		 </div>
+    </div>
         
          <footer>
         <section id="contact">
+            <hr>
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
             <h4>
-              <strong>Contact Me</strong>
+              <strong>Hue Bui</strong>
             </h4>
-              <!--
-            <p>21 East Market Street
-              <br>Iowa City, IA, 52246</p>
-              -->
             <ul class="list-unstyled">
               <li>
                 <i class="fa fa-phone fa-fw"></i>

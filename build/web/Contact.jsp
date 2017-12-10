@@ -50,7 +50,10 @@
               <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>

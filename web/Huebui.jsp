@@ -29,7 +29,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
-	
+    <link href="mycss/mystyle.css" rel="stylesheet">
 	
     </head>
   
@@ -55,9 +55,9 @@
               <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
             </li>
-			<li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
             </li>
             <li class="nav-item">
@@ -73,8 +73,9 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>About Me</strong>
+              <strong>Hue Bui</strong>
             </h1>
+              <p>Business Analystics and Information Systems</p>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
@@ -84,61 +85,60 @@
         </div>
       </div>
     </header>
+    
+    <div class="padding">
 	<br><br>
     
-	
-    
-	<p>My name is Hue Bui. I am a senior student at University of Iowa, major Business Analystics and Information Systems. 
-	I am open-minded and love to learn the new thing. I am also flexibility to support and collaborate with teammates to finish the projects.
+	<p class="pixel">My name is Hue Bui. I am a senior student at University of Iowa, major Business Analystics and Information Systems. 
+	I am open-minded and love to learn the new things. I am also flexibility to support and collaborate with teammates to finish the projects.
 	When working in a team, my roles are co-ordinator, implementer, and completer.</p>
-	<p>Besides school, I like to cook, listen to music, hang out with friends, and join the culture events around campus.
+	<p>I like to cook, listen to music, hang out with friends, and join the culture events around campus in free time.
 	
 	</p>
-	<br><br>
-		<h4>The memorable Moments in College</h4>
+	      <br><br>
+		<h4>The Memorable Moments in College</h4>
 		 <div class="col-lg-4 col-sm-6">
-			 <br>   
+              <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi1.jpg" alt>
-               <br>  
+              <br>  <br>
               <a> Reveal aKDPhi </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
-				<br> <br>   
+              <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi.jpg" alt>
-              <br>   
+              <br> <br>  
               <a> Friends-giving </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
-				<br> <br>   
+              <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/nhala.jpg" alt>
-              <br>   
+              <br><br>   
               <a> Culture Ball event with my friends </a>
 		 </div>
 		 <div class="col-lg-4 col-sm-6">
 				<br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/fam.jpg" alt>
-              <br>   
-              <a> having fun with my sisters </a>
+              <br> <br>  
+              <a> Having fun with my sisters </a>
 		 </div>
 		  <div class="col-lg-4 col-sm-6">
-				<br> <br>   
+              <br> <br>   
               <img class="img-fluid" src="img/portfolio/thumbnails/VietnameseNewYear.jpg" alt>
-              <br>   
-              <a> Celebrate VietnameseNewYear 2017 with friends </a>
+              <br> <br>  
+              <a> Celebrate Vietnamese New Year 2017 with friends </a>
 		 </div>
+    </div>
 		
 		    <footer>
         <section id="contact">
+        <hr>
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
             <h4>
-              <strong>Contact Me</strong>
+              <strong>Hue Bui</strong>
             </h4>
-              <!--
-            <p>21 East Market Street
-              <br>Iowa City, IA, 52246</p>
-              -->
+           
             <ul class="list-unstyled">
               <li>
                 <i class="fa fa-phone fa-fw"></i>

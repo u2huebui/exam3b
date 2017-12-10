@@ -28,9 +28,11 @@
 
     <!-- Plugin CSS -->
     <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+    
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
+    <link href="mycss/mystyle.css" rel="stylesheet">
 	
 	
     </head>
@@ -54,7 +56,7 @@
               <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
@@ -72,32 +74,55 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Add Functionality</strong>
+                <strong>Add <br>
+                  Functionality</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
-            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
+            <p class="text-faded mb-5"></p>
          
           </div>
         </div>
       </div>
     </header>
-	
-	
+    <div class="padding">
         <h1></h1>
+        <br>
+        <p class="pixel">
+            Add functionality allow users add records from the database.
+            After finishing the add functionality, I learn that using right models and queries compatible with records are the difficult part of this functionality.
+        </p>
+        
+        <div>
+        
+        <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/AddFlow.JPG" alt>
+              <br>   <br>
+              <a> Add record flow </a>
+        </div>
+         <div class="col-lg-4 col-sm-6">
+              <br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/AddForm.JPG" alt>
+              <br>   <br>
+              <a> Add form </a>
+        </div>
+        </div>
+    </div>
         
          <footer>
         <section id="contact">
+            <hr>
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto text-center">
             <h4>
-              <strong>Contact Me</strong>
+              <strong>Hue Bui</strong>
             </h4>
              
             <ul class="list-unstyled">
+             
               <li>
                 <i class="fa fa-phone fa-fw"></i>
                 (712) 281-9989</li>
