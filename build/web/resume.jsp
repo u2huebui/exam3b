@@ -82,6 +82,8 @@
                   <br>
                  1010 W.Benton Street, Iowa City, IA 52246
                  <br>
+                (712) 281-9989
+                <br>
                   <a href="https://outlook.office.com/owa/?realm=uiowa.edu&exsvurl=1&ll-cc=1033&modurl=0"> hue-bui@uiowa.edu </a> 
               </p>
               <hr>
@@ -120,7 +122,7 @@
 	</li>
   </ol>
 	
-  <h3>WORK EXPERIENCE</h3>
+  <h3>WORK EXPERIENCES</h3>
   <ol>
       <br>
       <li>
@@ -182,7 +184,7 @@
 	
   </ol>
 	
-    <h3>VOLUNTEER EXPERIENCE</h3>
+    <h3>VOLUNTEER EXPERIENCES</h3>
     <ol>
         <br>
 	<li>

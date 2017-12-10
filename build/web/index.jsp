@@ -113,7 +113,7 @@
             
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="img/portfolio/thumbnails/Delete2.JPG" alt=""></a>
+                <a href="DeleteFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Delete2.JPG" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
                     <a href="DeleteFunction.jsp">Delete Functionality</a>
@@ -126,7 +126,7 @@
             
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="img/portfolio/thumbnails/Update1.JPG" alt=""></a>
+                <a href="UpdateFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Update1.JPG" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
                     <a href="UpdateFunction.jsp">Update Functionality</a>
@@ -139,7 +139,7 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href=""><img class="card-img-top" src="img/portfolio/thumbnails/Add1.jpg" alt=""></a>
+                <a href="AddFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Add1.jpg" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
                     <a href="AddFunction.jsp">Add Functionality</a>
@@ -153,7 +153,7 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="img/portfolio/thumbnails/Search3.JPG" alt=""></a>
+                <a href="SearchFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Search3.JPG" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
                     <a href="SearchFunction.jsp">Search Functionality</a>
