@@ -32,17 +32,17 @@
 	
 	
     </head>
-    <body>
+  
 	
 	<body id="page-top">
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <!--<a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+       
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
-        </button>-->
+        </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
                <li class="nav-item">
@@ -57,7 +57,7 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
             </li>
-            <li class="nav-item">
+			<li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
             </li>
             <li class="nav-item">
@@ -78,17 +78,54 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
-            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
+            <p class="text-faded mb-5"></p>
          
           </div>
         </div>
       </div>
     </header>
-
+	<br><br>
     
 	
-        <h1>About me</h1>
+    
+	<p>My name is Hue Bui. I am a senior student at University of Iowa, major Business Analystics and Information Systems. 
+	I am open-minded and love to learn the new thing. I am also flexibility to support and collaborate with teammates to finish the projects.
+	When working in a team, my roles are co-ordinator, implementer, and completer.</p>
+	<p>Besides school, I like to cook, listen to music, hang out with friends, and join the culture events around campus.
+	
+	</p>
+	<br><br>
+		<h4>The memorable Moments in College</h4>
+		 <div class="col-lg-4 col-sm-6">
+			 <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi1.jpg" alt>
+               <br>  
+              <a> Reveal aKDPhi </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+				<br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/aKDPhi.jpg" alt>
+              <br>   
+              <a> Friends-giving </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+				<br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/nhala.jpg" alt>
+              <br>   
+              <a> Culture Ball event with my friends </a>
+		 </div>
+		 <div class="col-lg-4 col-sm-6">
+				<br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/fam.jpg" alt>
+              <br>   
+              <a> having fun with my sisters </a>
+		 </div>
+		  <div class="col-lg-4 col-sm-6">
+				<br> <br>   
+              <img class="img-fluid" src="img/portfolio/thumbnails/VietnameseNewYear.jpg" alt>
+              <br>   
+              <a> Celebrate VietnameseNewYear 2017 with friends </a>
+		 </div>
 		
 		    <footer>
         <section id="contact">
@@ -116,7 +153,19 @@
            </div>
             </section>
     </footer>
-		
+	
+		<!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
+    
 		
     </body>
 </html>

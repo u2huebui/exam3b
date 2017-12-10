@@ -31,10 +31,6 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <!--<a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>-->
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
                <li class="nav-item">
@@ -86,9 +82,9 @@
             <hr class="light my-4">
             <p class="text-faded mb-4">GitHub is a tool which help me work independently and share codes with my teammates.
                 It also help me keep my codes organized and easily access them whenever and whereever I want.
-                Even the computer broke down, the codes are still safe.
+                Even my computer was broken down; my works are still safe.
                 GitHub is also a good place to learn and share codes with other coders.
-                - add image and link of github, my experience about github! </p>
+                </p>
             <a class="btn btn-light btn-xl js-scroll-trigger" href="https://github.com/u2huebui">My GitHub Page!</a>
           </div>
         </div>
@@ -105,21 +101,15 @@
               <img class="img-fluid" src="img/portfolio/thumbnails/SalaryCalculator.jpg" alt="">
                <br> <br>
                <a href="Homework3.jsp"> Calculator Salary </a>
-                <br> <br>
               </div>
               <!--
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                      
+            
                     Home work 3
                     
                   </div>
                   <div class="project-name">
                     Salary Calculator ( link to HW3.jsp: screenshot of HW3 output, explain what did I learn from it, link to the website of HW3
-                  </div>
-                </div>
-              </div> -->
+                  
            <!-- </a>
           </div>-->
            
@@ -130,19 +120,14 @@
               <img class="img-fluid" src="img/portfolio/thumbnails/Read.jpg" alt
                    <br> <br><br>   
               <a href="readfunction.jsp"> Read Functionality </a>
-               <br> <br>
+              
           </div>
-              <!--<div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
+              <!--
                     HW4
                   </div>
                   <div class="project-name">
                     Read Function ( link to read.jsp: have screenshot of user story for the homework assignment, class and database diagram, data flow diagrams of read functionality...., my experience about do read functionality
-                  </div>
-                </div>
-              </div>
-            </a>
+                  
           </div>-->
           <div class="col-lg-4 col-sm-6">
               <!--
@@ -152,7 +137,7 @@
                <img class="img-fluid" src="img/portfolio/thumbnails/Add1.jpg" alt="">
                 <br> <br>
               <a href="AddFunction.jsp"> Add Functionality </a>
-               <br> <br>
+               
                
           </div>
               <!--
@@ -176,7 +161,7 @@
                  <img class="img-fluid" src="img/portfolio/thumbnails/Delete.jpg" alt="">
                <br> <br>
                 <a href="DeleteFunction.jsp"> Delete Functionality </a>
-                 <br> <br>
+                <br>
               
           </div>
               <!--<div class="portfolio-box-caption">
@@ -199,7 +184,7 @@
                  <img class="img-fluid" src="img/portfolio/thumbnails/Search.jpg" alt="">
                <br> <br>
                 <a href="SearchFunction.jsp"> Search Functionality </a>
-                 <br> <br>
+                 <br>
               
           </div>
               <!--

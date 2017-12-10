@@ -31,16 +31,13 @@
     <link href="css/creative.min.css" rel="stylesheet">	
 		
     </head>
-	
+	<body>
 	<body id="page-top">
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <!--<a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>-->
+       
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
                <li class="nav-item">
@@ -56,9 +53,6 @@
               <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>
             </li>
           </ul>
@@ -71,30 +65,38 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Contact Me</strong>
+              <strong>Hue Bui</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5"><ul class="list-unstyled">
-             <h4> <li>
+            <p class="text-faded mb-5">
+			<h4><ul class="list-unstyled">
+              <li>
                 <i class="fa fa-phone fa-fw"></i>
                 (712) 281-9989</li>
               <li>
                 <i class="fa fa-envelope-o fa-fw"></i>
                 <a href="https://outlook.office.com/owa/?realm=uiowa.edu&exsvurl=1&ll-cc=1033&modurl=0">hue-bui@uiowa.edu</a>
               </li>
-              </h4>
-            </ul></p>
+            </ul></h4></p>
          
           </div>
         </div>
       </div>
     </header>
 	
-	
-    <body>
-       
+		  <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
     
     </body>
 </html>

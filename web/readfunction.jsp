@@ -31,7 +31,7 @@
     
 	
 	</head>
-    <body>
+    
 	
 	 <body id="page-top">
 
@@ -51,13 +51,10 @@
               <a class="nav-link js-scroll-trigger" href="Huebui.jsp">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
+              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">link toLinkdIn page and summary about me, change the image</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>
