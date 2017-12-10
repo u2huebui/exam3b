@@ -31,23 +31,25 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <!--<a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>-->
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+               <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="index.jsp">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">link toLinkdIn page and summary about me, change the image</a>
+              <a class="nav-link js-scroll-trigger" href="Huebui.jsp">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">Resume</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>
             </li>
           </ul>
         </div>
@@ -61,12 +63,12 @@
             <h1 class="text-uppercase">
               <strong>Software Design Development Experience</strong>
             </h1>
-            <hr>
-          </div>
-          <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
-            I also learn how to work independent as well as collaborate with teammates to finish project.</p>
-         
+              <hr>
+              <p>
+                  After a semester, I learn how to use the appropriate tools and skills to create the applications and websites.
+            I also learn how to work independent as well as collaborate with teammates to finish project.
+              </p>
+            
           </div>
         </div>
       </div>
@@ -76,141 +78,132 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">Github- add image and link of github, my experience about github!</h2>
+            <h2 class="section-heading text-white">GitHub Experience</h2>
             <hr class="light my-4">
-            <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            <p>GitHub is a tool which help me work independently and share codes with my teammates.
+                It also help me keep my codes organized and easily access them whenever and whereever I want.
+                Even my computer was broken down; my works are still safe.
+                GitHub is also a good place to learn and share codes with other coders.
+                </p>
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="https://github.com/u2huebui">My GitHub Page!</a>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="p-0" id="portfolio">
-      <div class="container-fluid p-0">
-         
-       <!-- <div class="row no-gutters popup-gallery">-->
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/SalaryCalculator.jpg">
-                <a href="Homework3.jsp"> Calculator Salary </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/SalaryCalculator.jpg" alt="">
-              </div>
-              <!--
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                      
-                    Home work 3
-                    
-                  </div>
-                  <div class="project-name">
-                    Salary Calculator ( link to HW3.jsp: screenshot of HW3 output, explain what did I learn from it, link to the website of HW3
-                  </div>
-                </div>
-              </div> -->
-           <!-- </a>
-          </div>-->
-           
-          <div class="col-lg-4 col-sm-6">
-              
-           <!-- <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">-->
-                <a href="readfunction.jsp"> Read Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Read.jpg" alt="">
-          </div>
-              <!--<div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    HW4
-                  </div>
-                  <div class="project-name">
-                    Read Function ( link to read.jsp: have screenshot of user story for the homework assignment, class and database diagram, data flow diagrams of read functionality...., my experience about do read functionality
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>-->
-          <div class="col-lg-4 col-sm-6">
-              <!--
-            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-              -->
-              <a href="AddFunction.jsp"> Add Functionality </a>
-               <img class="img-fluid" src="img/portfolio/thumbnails/Add1.jpg" alt="">
-          </div>
-              <!--
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    HW5
-                  </div>
-                  <div class="project-name">
-                   Add & Delete Functionality (link to AddDelete.jsp: screenshot of data flow diagrams of add, delete functionality, my experience, and explain what is add, delete
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>-->
-          <div class="col-lg-4 col-sm-6">
-              <!--
-            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-                -->
-                <a href="DeleteFunction.jsp"> Delete Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Delete.jpg" alt="">
-          </div>
-              <!--<div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    HW6
-                  </div>
-                  <div class="project-name">
-                    search &Update Functionality (link to update.jsp: screenshot of data flow diagrams of update. how update, search function work, my experience.
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>-->
-             
-          <div class="col-lg-4 col-sm-6">
-             <!--<a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-                -->
-                <a href="SearchFunction.jsp"> Search Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Search.jpg" alt="">
-          </div>
-              <!--
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                   Final
-                  </div>
-                  <div class="project-name">
-                    Project (link to project.jsp: screenshot of wirefame, picture of project)
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>-->
-          <div class="col-lg-4 col-sm-6">
-              <!--
-            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">-->
-              
-               <a href="UpdateFunction.jsp"> Update Functionality </a>
+    <br><br>
+        
 
-              <img class="img-fluid" src="img/portfolio/thumbnails/Update.jpg" alt="">
-          </div>
-              <!--
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Category
-                  </div>
-                  <div class="project-name">
-                    Project Name
-                  </div>
+    <section class="p-0" id="portfolio">
+        <div class="row">
+            
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                  
+                <a href="readfunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Read.jpg" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="readfunction.jsp"> Read Functionality </a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
                 </div>
               </div>
-            </a>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <a href="DeleteFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Delete2.JPG" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="DeleteFunction.jsp">Delete Functionality</a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <a href="UpdateFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Update1.JPG" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="UpdateFunction.jsp">Update Functionality</a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <a href="AddFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Add1.jpg" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="AddFunction.jsp">Add Functionality</a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
+                </div>
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <a href="SearchFunction.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/Search3.JPG" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="SearchFunction.jsp">Search Functionality</a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+              <div class="card h-100">
+                <a href="Homework3.jsp"><img class="card-img-top" src="img/portfolio/thumbnails/SalaryCalculator.jpg" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a href="Homework3.jsp">My Application</a>
+                  </h4>
+                  <h5></h5>
+                  <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>-->
+          
     </section>
+    
+        <footer>
+        <section id="contact">
+        <hr>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <h4>
+              <strong>Hue Bui</strong>
+            </h4>
+             
+            <ul class="list-unstyled">
+              <li>
+                <i class="fa fa-phone fa-fw"></i>
+                (712) 281-9989</li>
+              <li>
+                <i class="fa fa-envelope-o fa-fw"></i>
+                <a href="https://outlook.office.com/owa/?realm=uiowa.edu&exsvurl=1&ll-cc=1033&modurl=0">hue-bui@uiowa.edu</a>
+              </li>
+            </ul>
+        </div>    
+          </div>
+           </div>
+            </section>
+    </footer>
     
      
     </section>
