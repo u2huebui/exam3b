@@ -37,17 +37,23 @@
         </button>-->
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+               <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="index.jsp">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">link toLinkdIn page and summary about me, change the image</a>
+              <a class="nav-link js-scroll-trigger" href="Huebui.jsp">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">link to my Resume, change the picture</a>
+              <a class="nav-link js-scroll-trigger" href="https://www.linkedin.com/in/hue-bui-78508012b/">LinkedIn</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="resume.jsp">link to my Resume, change the picture</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/thanhhue.bui.9">Facebook</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="Contact.jsp">Contact</a>
             </li>
           </ul>
         </div>
@@ -76,10 +82,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">Github- add image and link of github, my experience about github!</h2>
+            <h2 class="section-heading text-white">GitHub Experience</h2>
             <hr class="light my-4">
-            <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+            <p class="text-faded mb-4">GitHub is a tool which help me work independently and share codes with my teammates.
+                It also help me keep my codes organized and easily access them whenever and whereever I want.
+                Even the computer broke down, the codes are still safe.
+                GitHub is also a good place to learn and share codes with other coders.
+                - add image and link of github, my experience about github! </p>
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="https://github.com/u2huebui">My GitHub Page!</a>
           </div>
         </div>
       </div>
@@ -88,11 +98,14 @@
     <section class="p-0" id="portfolio">
       <div class="container-fluid p-0">
          
-       <!-- <div class="row no-gutters popup-gallery">-->
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/SalaryCalculator.jpg">
-                <a href="Homework3.jsp"> Calculator Salary </a>
+            
+              <br> <br>
+               
               <img class="img-fluid" src="img/portfolio/thumbnails/SalaryCalculator.jpg" alt="">
+               <br> <br>
+               <a href="Homework3.jsp"> Calculator Salary </a>
+                <br> <br>
               </div>
               <!--
               <div class="portfolio-box-caption">
@@ -111,10 +124,13 @@
           </div>-->
            
           <div class="col-lg-4 col-sm-6">
-              
-           <!-- <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">-->
-                <a href="readfunction.jsp"> Read Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Read.jpg" alt="">
+            
+            <br> <br>
+                
+              <img class="img-fluid" src="img/portfolio/thumbnails/Read.jpg" alt
+                   <br> <br><br>   
+              <a href="readfunction.jsp"> Read Functionality </a>
+               <br> <br>
           </div>
               <!--<div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -132,8 +148,12 @@
               <!--
             <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
               -->
-              <a href="AddFunction.jsp"> Add Functionality </a>
+               <br> <br>
                <img class="img-fluid" src="img/portfolio/thumbnails/Add1.jpg" alt="">
+                <br> <br>
+              <a href="AddFunction.jsp"> Add Functionality </a>
+               <br> <br>
+               
           </div>
               <!--
               <div class="portfolio-box-caption">
@@ -152,8 +172,12 @@
               <!--
             <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
                 -->
+                 <br> <br>
+                 <img class="img-fluid" src="img/portfolio/thumbnails/Delete.jpg" alt="">
+               <br> <br>
                 <a href="DeleteFunction.jsp"> Delete Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Delete.jpg" alt="">
+                 <br> <br>
+              
           </div>
               <!--<div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -171,8 +195,12 @@
           <div class="col-lg-4 col-sm-6">
              <!--<a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
                 -->
+                 <br> <br>
+                 <img class="img-fluid" src="img/portfolio/thumbnails/Search.jpg" alt="">
+               <br> <br>
                 <a href="SearchFunction.jsp"> Search Functionality </a>
-              <img class="img-fluid" src="img/portfolio/thumbnails/Search.jpg" alt="">
+                 <br> <br>
+              
           </div>
               <!--
               <div class="portfolio-box-caption">
@@ -191,9 +219,12 @@
               <!--
             <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">-->
               
-               <a href="UpdateFunction.jsp"> Update Functionality </a>
+                <br> <br>
 
               <img class="img-fluid" src="img/portfolio/thumbnails/Update.jpg" alt="">
+              <br> <br>
+              
+              <a href="UpdateFunction.jsp"> Update Functionality </a>
           </div>
               <!--
               <div class="portfolio-box-caption">
@@ -211,6 +242,33 @@
         </div>
       </div>-->
     </section>
+    
+        <footer>
+        <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <h4>
+              <strong>Contact Me</strong>
+            </h4>
+              <!--
+            <p>21 East Market Street
+              <br>Iowa City, IA, 52246</p>
+              -->
+            <ul class="list-unstyled">
+              <li>
+                <i class="fa fa-phone fa-fw"></i>
+                (712) 281-9989</li>
+              <li>
+                <i class="fa fa-envelope-o fa-fw"></i>
+                <a href="https://outlook.office.com/owa/?realm=uiowa.edu&exsvurl=1&ll-cc=1033&modurl=0">hue-bui@uiowa.edu</a>
+              </li>
+            </ul>
+        </div>    
+          </div>
+           </div>
+            </section>
+    </footer>
     
      
     </section>

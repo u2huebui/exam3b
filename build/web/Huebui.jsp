@@ -1,22 +1,22 @@
 <%-- 
-    Document   : SearchFunction
-    Created on : Dec 9, 2017, 1:02:43 PM
+    Document   : Huebui
+    Created on : Dec 9, 2017, 3:38:09 PM
     Author     : Hue Bui
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
 	
-	
-        <title>Search Function</title>
-		<!-- Bootstrap core CSS -->
+        <title>HueBui</title>
+		
+		
+	<!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
@@ -29,11 +29,12 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
-		
+	
+	
     </head>
     <body>
 	
-	 <body id="page-top">
+	<body id="page-top">
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -44,10 +45,10 @@
         </button>-->
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-             <li class="nav-item">
+               <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="index.jsp">Home</a>
             </li>
-			<li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="Huebui.jsp">About</a>
             </li>
             <li class="nav-item">
@@ -66,13 +67,13 @@
         </div>
       </div>
     </nav>
-	
-	<header class="masthead text-center text-white d-flex">
+
+    <header class="masthead text-center text-white d-flex">
       <div class="container my-auto">
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Search Functionality</strong>
+              <strong>About Me</strong>
             </h1>
             <hr>
           </div>
@@ -84,11 +85,12 @@
         </div>
       </div>
     </header>
+
+    
 	
-	
-        <h1>Search Function</h1>
-        
-         <footer>
+        <h1>About me</h1>
+		
+		    <footer>
         <section id="contact">
       <div class="container">
         <div class="row">
@@ -114,8 +116,7 @@
            </div>
             </section>
     </footer>
-    
-        
-        
+		
+		
     </body>
 </html>

@@ -1,6 +1,6 @@
 <%-- 
-    Document   : SearchFunction
-    Created on : Dec 9, 2017, 1:02:43 PM
+    Document   : resume
+    Created on : Dec 9, 2017, 3:38:54 PM
     Author     : Hue Bui
 --%>
 
@@ -8,15 +8,16 @@
 <!DOCTYPE html>
 <html>
     <head>
-        
+       
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <meta name="author" content="">
-	
-	
-        <title>Search Function</title>
-		<!-- Bootstrap core CSS -->
+    <meta name="author" content="">	   
+		
+		
+        <title>Resume</title>
+		
+	<!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
@@ -28,7 +29,7 @@
     <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/creative.min.css" rel="stylesheet">
+    <link href="css/creative.min.css" rel="stylesheet">	
 		
     </head>
     <body>
@@ -72,7 +73,7 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Search Functionality</strong>
+              <strong>Resume</strong>
             </h1>
             <hr>
           </div>
@@ -86,7 +87,8 @@
     </header>
 	
 	
-        <h1>Search Function</h1>
+        <h1>Resume</h1>
+        
         
          <footer>
         <section id="contact">
@@ -115,7 +117,5 @@
             </section>
     </footer>
     
-        
-        
     </body>
 </html>
